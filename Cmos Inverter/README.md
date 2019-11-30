@@ -13,3 +13,6 @@ A static CMOS inverter can be constructed from a single nMOS transistor and a si
 ## Truth table
 
 ![truth table](img/tt.png)
+
+## VHDL output
+![vhdl output](img/cmosinv.JPG)
