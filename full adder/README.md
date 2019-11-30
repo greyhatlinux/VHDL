@@ -8,3 +8,6 @@ A full adder is a logical circuit that performs an addition operation on three o
 
 ## Truth Table
 ![full adder](img/tt.png)
+
+## VHDL Output 
+![vhdl output](img/fulladder.JPG)
