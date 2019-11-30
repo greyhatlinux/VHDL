@@ -4,12 +4,12 @@ A static CMOS inverter can be constructed from a single nMOS transistor and a si
 
 ## CMOS 
 
-![cmos Inverter](cmosinv.png)
+![cmos Inverter](img/cmosinv.png)
 
 ## Circuit Schematic
 
-![circuit](cmosinv_diag.JPG)
+![circuit](img/cmosinv_diag.JPG)
 
 ## Truth table
 
-![truth table](tt.png)
+![truth table](img/tt.png)
