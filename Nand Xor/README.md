@@ -11,6 +11,7 @@ Implementing Xor using Nand gates:
 ## Truth Table
 
 Truth Table for XOR gate
+
 ![truth table](img/xortt.JPG) 
 
 ## VHDL Output
